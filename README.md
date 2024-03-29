@@ -1,4 +1,5 @@
-# Microsoft Hackathon Challenge @ Q-Hack 2024
+![2](https://github.com/Q-hackathon/Microsoft_Q-Hack2024/assets/161318557/74196bd9-298b-4c00-95c6-bbb4d493265b)
+# <p align="center"> Microsoft Hackathon Challenge @ Q-Hack 2024 </p>
 
 ## Build your own Copilot for Students
 
