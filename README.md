@@ -40,3 +40,6 @@ Your own Copilot leveraging the latest genAI technology from Microsoft. Using th
 - Impact 
 - Creativity
 - Technical implementation
+
+### Useful Links
+- https://github.com/Azure/intro-to-intelligent-apps
