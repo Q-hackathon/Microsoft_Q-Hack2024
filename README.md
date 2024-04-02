@@ -35,3 +35,8 @@ Your own Copilot leveraging the latest genAI technology from Microsoft. Using th
 
 ### Not Provided Resources
 - Data that you want to leverage (Data will only be stored during the Challenge)
+
+### Evaluation Criteria
+- Impact 
+- Creativity
+- Technical implementation
